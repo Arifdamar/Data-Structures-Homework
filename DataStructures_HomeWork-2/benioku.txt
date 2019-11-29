@@ -1,0 +1,3 @@
+***bin dosyasındaki exe'nin çalışabilmesi için test.cpp dosyasında dosya yolu ona göre düzenlenmelidir.
+
+***Program Notepad++ ile yazılıp MinGW derleyicisiyle derlenmiştir.
