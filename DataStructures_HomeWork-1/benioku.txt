@@ -1,0 +1,1 @@
+***Program Notepad++ ile yazılıp MinGW derleyicisiyle derlenmiştir.
